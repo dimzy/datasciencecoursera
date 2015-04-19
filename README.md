@@ -1,2 +1,2 @@
-# datasciencecoursera
-Coursera Data Science
+# Data Science Coursera
+Coursera Data Science Working Directory
